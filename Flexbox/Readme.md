@@ -1,0 +1,1 @@
+# site ficticio com uma galeria de imagens, criado com layout responsivo utilizando css flexbox para se ajustar a diversos tamanhos de dispositivos. 
